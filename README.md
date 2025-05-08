@@ -5,4 +5,4 @@ Baseado em [sb2nov/resume](https://github.com/sb2nov/resume/) e [jakegut/resume]
 
 Use-o no overleaf: [Curriculo Guilherme Silva de Andrade](https://www.overleaf.com/read/fqxyvrsdkfpy#fb1eaa) (Não atualizado)
 
-Visualização do currículo](./GuilhermeSilvaDeAndrade.pdf)
+[Visualização do currículo](./GuilhermeSilvaDeAndrade.pdf)
